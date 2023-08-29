@@ -30,7 +30,7 @@ _Aqui voce aprende a instalar e configurar seu aplicativo._
 1. Clone o repositório
 
    ```sh
-   git clone --
+   git clone https://github.com/williampiresse/desafio-mobile.git
    ```
 2. Entrar no diretório wordsapp
 
