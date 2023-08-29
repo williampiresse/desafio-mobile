@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "301196484448",
+    "project_id": "desafiopalavras",
+    "storage_bucket": "desafiopalavras.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301196484448:android:c42d692479bccad5c2c805",
+        "android_client_info": {
+          "package_name": "com.example.wordsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301196484448-geslu9pq0vrebgnj2je4e26j9on45cev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF-yUjTxZ2P24vPwC0-uBCEUTNTA_26jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301196484448-geslu9pq0vrebgnj2je4e26j9on45cev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
